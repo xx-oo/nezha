@@ -50,6 +50,9 @@ You can change the dashboard language in the settings page (`/setting`) after th
 <a href="https://github.com/dysf888" title="黑歌">
   <img src="https://avatars.githubusercontent.com/u/47450409?v=4" width="50;" alt="黑歌"/>
 </a>
+<a href="https://github.com/xx-oo" title="xx-oo">
+  <img src="https://avatars.githubusercontent.com/u/57185583?v=4" width="50;" alt="xx-oo"/>
+</a>
 <a href="https://github.com/MikoyChinese" title="MikoyChinese">
   <img src="https://avatars.githubusercontent.com/u/22676744?v=4" width="50;" alt="MikoyChinese"/>
 </a>
